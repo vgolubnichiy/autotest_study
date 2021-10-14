@@ -1,0 +1,14 @@
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.exe
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.deps.json
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.runtimeconfig.json
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.runtimeconfig.dev.json
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.dll
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\bin\Debug\netcoreapp3.1\test_app1.pdb
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.csproj.AssemblyReference.cache
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.AssemblyInfoInputs.cache
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.AssemblyInfo.cs
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.csproj.CoreCompileInputs.cache
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.dll
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.pdb
+C:\Users\Golubnichiy Vitaliy\source\repos\autotest_study\test_app1\test_app1\obj\Debug\netcoreapp3.1\test_app1.genruntimeconfig.cache
